@@ -1,0 +1,14 @@
+.text_hight{
+  background-color: red;
+  color: white;
+  font-weight: 700;
+}
+
+.text_low{
+  background-color: blue;
+  color: white;
+}
+
+.text_normal{
+  color: black;
+}
